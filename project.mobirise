@@ -67,7 +67,15 @@
     "imageResize": true,
     "uniqCompNum": 13,
     "versionPublish": "5.3.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/kna-law-128x128.png",
+    "mbrsiteDomain": "bch0h1z4ei",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
