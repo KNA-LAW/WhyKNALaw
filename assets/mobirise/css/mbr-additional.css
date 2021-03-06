@@ -860,11 +860,11 @@ a {
 .cid-sqBK6b1ZWm {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-sqBK6b1ZWm .mbr-overlay {
   background-color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.7;
 }
 .cid-sqBK6b1ZWm form .mbr-section-btn {
   text-align: center;
@@ -879,7 +879,7 @@ a {
   }
 }
 .cid-sqBK6b1ZWm .mbr-section-title {
-  color: #dc0000;
+  color: #ad0000;
 }
 .cid-sqBKz0IxPw {
   padding-top: 75px;
