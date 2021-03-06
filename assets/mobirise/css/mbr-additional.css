@@ -807,6 +807,10 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sqBH264gZx .card-title,
+.cid-sqBH264gZx .card-box {
+  color: #2d0000;
+}
 .cid-sqBJmEwtee {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -874,10 +878,13 @@ a {
     width: 100%;
   }
 }
+.cid-sqBK6b1ZWm .mbr-section-title {
+  color: #dc0000;
+}
 .cid-sqBKz0IxPw {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #1c0000;
+  background-color: #170103;
 }
 @media (max-width: 767px) {
   .cid-sqBKz0IxPw .content {
